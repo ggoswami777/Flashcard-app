@@ -48,9 +48,9 @@ def main():
     print("Yo!Welcome to Japanese Kana Flashcards😊.")
     choice=input("Choose one to learn:\n1.Hiragana\n  2.Katakana\n Enter 1 or 2:")
     if choice=="1":
-        data = load_data(r"C:\Users\gaura\OneDrive\Desktop\flashcard app\hiragana.csv")
+        data = load_data('hiragana.csv')
     elif choice=="2":
-        data = load_data(r"C:\Users\gaura\OneDrive\Desktop\flashcard app\katakana.csv")
+        data = load_data('katakana.csv')
     else:
         print("Invalid choice")
         return
