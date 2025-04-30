@@ -19,7 +19,7 @@ Project Structure:
 - main.py            -> Main application file.
 - hiragana.csv       -> CSV file containing Hiragana characters and their Romaji.
 - katakana.csv       -> CSV file containing Katakana characters and their Romaji.
-- README.txt         -> This file, describing the project.
+- README.md          -> This file, describing the project.
 
 How to Run:
 ------------
