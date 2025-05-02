@@ -27,6 +27,23 @@ Each flashcard displays an English word and waits for user input to reveal the c
 python flashcardappjapanese.py
 make sure to have hiragana.csv,katakana.csv and flashcardappjapanese.py in same file
 
+
+## Project 2 : Madlibs
+
+# 📝 Python MadLibs Generator
+
+This is a fun command-line **MadLibs generator** built using Python. The project randomly selects a story template and fills in the blanks based on user input to create a unique, funny narrative every time.
+
+## 🔧 How It Works
+
+- The `sample_madlib` folder contains multiple story files like `hungergames.py`, `zombie.py`, and helper files like `code.py` and `hp.py`.
+- `madlibs.py` serves as the main runner, importing story functions and randomly picking one.
+- Each MadLib prompts the user to enter words (like nouns, adjectives, etc.) and generates a filled story.
+
+
+
+
+
 I will keep adding more Python projects including:
 
 *Logic-building games
