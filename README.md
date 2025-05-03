@@ -40,7 +40,8 @@ This is a fun command-line **MadLibs generator** built using Python. The project
 - `madlibs.py` serves as the main runner, importing story functions and randomly picking one.
 - Each MadLib prompts the user to enter words (like nouns, adjectives, etc.) and generates a filled story.
 
-# 🎯Project 2: Guess The Number Game
+# Project 3: Guess The Number Game
+# 🎯Guess The Number Game
 
 
 A simple and fun number guessing game built in Python!  
