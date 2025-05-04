@@ -63,13 +63,13 @@ You can choose to guess a number yourself, or let the computer guess the number 
 python guessthenumber.py
 
 
-Project 4: Rock Paper Scissors Game
-🎮 Classic Python implementation of the iconic hand game
+#Project 4: Rock Paper Scissors Game
+#🎮 Classic Python implementation of the iconic hand game
 
-✅ Description
+##✅ Description
 A terminal-based Rock Paper Scissors game where players compete against the computer. Features randomized AI moves, score tracking, and a clean CLI interface.
 
-⚙️ Features
+##⚙️ Features
 Interactive command-line gameplay
 
 Randomized computer choices
@@ -80,14 +80,14 @@ Input validation (Handles invalid moves)
 
 Easy to expand (Add lizard/spock variants later)
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 Python 3
 
 random module (for AI moves)
 
 Basic loops and conditionals
 
-🚀 How to Run
+##🚀 How to Run
 bash
 python rock_paper_scissors.py
 (Ensure all files are in the same directory)
