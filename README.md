@@ -84,6 +84,29 @@ A terminal-based Rock Paper Scissors game where players compete against the comp
 
 python rock_paper_scissors.py
 
+
+
+# 🚀 Project 4: Hangman Game (Python Mini Project)
+
+This is a simple command-line Hangman game written in Python. The player tries to guess a randomly selected word by guessing one letter at a time, with a limited number of wrong attempts allowed.
+
+---
+
+## 📁 Files Included
+
+- **`hangman.py`** – The main script that contains the game logic.
+- **`words.py`** – A separate file that includes a list of words used in the game.
+
+---
+
+## 📄 Example `words.py`
+
+Make sure your `words.py` looks something like this:
+
+
+words = ["python", "hangman", "developer", "function", "variable", "keyboard"]
+
+
 📌 Projects Roadmap
 Next Up:
 
