@@ -86,7 +86,7 @@ python rock_paper_scissors.py
 
 
 
-# 🚀 Project 4: Hangman Game (Python Mini Project)
+# 🚀 Project 5: Hangman Game (Python Mini Project)
 
 This is a simple command-line Hangman game written in Python. The player tries to guess a randomly selected word by guessing one letter at a time, with a limited number of wrong attempts allowed.
 
