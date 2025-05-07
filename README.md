@@ -107,6 +107,39 @@ Make sure your `words.py` looks something like this:
 words = ["python", "hangman", "developer", "function", "variable", "keyboard"]
 
 
+# Project 6: To-Do List App (Python)
+✅ Description:
+A simple Python-based To-Do list app where users can add, view, complete, and delete tasks. The app allows users to manage their tasks effectively with a command-line interface. It's a great tool to practice working with Python dictionaries, handling user input, and basic file handling for saving data.
+
+## ⚙️ Features:
+Add tasks: Users can input multiple tasks.
+
+View tasks: Users can view all tasks, view a specific task, or check the total number of tasks.
+
+Complete tasks: Mark tasks as completed and move them to a completed list.
+
+Delete tasks: Delete tasks from the list after completion or if no longer needed.
+
+Exit: The program allows users to exit the app gracefully.
+
+## 🛠️ Tech Stack:
+Python 3
+
+Basic data structures (dictionaries)
+
+File I/O (optional, for saving tasks)
+
+User input handling
+
+## 📁 File Name: to-do-list.py
+## 🚀 How to Run:
+Clone or download the repository.
+
+
+
+
+
+
 📌 Projects Roadmap
 Next Up:
 
